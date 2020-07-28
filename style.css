@@ -1,0 +1,26 @@
+body{
+	background-color: #e5b47a;
+}
+#book{
+	position: absolute;
+	right: 50%;
+	top: 10%;
+background-color: white;
+padding: 40px;
+border-radius: 20px;
+}
+#book h1{
+	color: #e5b47a;
+}
+.btn{
+	border-radius: 40px;
+	padding: 4px;
+	background-color: #e07d7d;
+	color: white;
+}
+.btn1{
+	border-radius: 40px;
+	padding: 4px;
+	background-color: #d44646;
+	color: white;
+}
